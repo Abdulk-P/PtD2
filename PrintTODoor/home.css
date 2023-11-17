@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+}
+
+#navbar{
+    background-color: rgb(240, 216, 216);
+    height: 100px;
+}
+
+#logo{
+
+    color:rgb(244, 228, 228);
+ 
+    padding: 20px;
+    text-decoration: none;
+    height: 5px;
+}
+
+#logo2{
+    height: 80px;
+    padding:10px ;
+}
+
